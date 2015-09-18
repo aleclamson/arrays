@@ -3,5 +3,9 @@ module Arrays
 		[array_1[1], array_2[3]]
 	end
 	
+	def max array
+		array.index
+		
+	end
 	
 end
